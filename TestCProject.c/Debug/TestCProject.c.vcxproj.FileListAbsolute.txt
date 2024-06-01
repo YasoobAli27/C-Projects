@@ -1,0 +1,2 @@
+D:\Programming\C\Test Stuff\TestCProject.c\Debug\TestCProject.c.exe
+D:\Programming\C\Test Stuff\TestCProject.c\Debug\TestCProject.c.pdb
