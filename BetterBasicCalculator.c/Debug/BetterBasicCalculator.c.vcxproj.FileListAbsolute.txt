@@ -1,0 +1,2 @@
+D:\Programming\C\Test Stuff\BetterBasicCalculator.c\Debug\BetterBasicCalculator.c.exe
+D:\Programming\C\Test Stuff\BetterBasicCalculator.c\Debug\BetterBasicCalculator.c.pdb
