@@ -1,0 +1,2 @@
+D:\Programming\C\Test Stuff\SwitchStatementsTutorial.c\Debug\SwitchStatementsTutorial.c.exe
+D:\Programming\C\Test Stuff\SwitchStatementsTutorial.c\Debug\SwitchStatementsTutorial.c.pdb
